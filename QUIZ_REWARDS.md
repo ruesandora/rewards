@@ -29,7 +29,8 @@
 | @user509 | 9 ℤP | 
 | @AstroCat | 9 ℤP | 
 | @Mst03 | 8 ℤP | 
-| @halit | 8 ℤP | 
+| @halit | 8 ℤP |
+| @ylmzalt34 | 8 ℤP | 
 | @Perf | 8 ℤP | 
 | @G1 | 13 ℤP | 
 | @özky | 7 ℤP | 
